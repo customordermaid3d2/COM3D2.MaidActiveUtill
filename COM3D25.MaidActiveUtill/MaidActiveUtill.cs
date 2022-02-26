@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using UnityEngine;
 
-namespace COM3D2.MaidActiveUtill
+namespace LillyUtill.MyMaidActive
 {
     class MyAttribute
     {

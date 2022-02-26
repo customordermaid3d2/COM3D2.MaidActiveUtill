@@ -7,7 +7,7 @@
     <ProjectGuid>{E82BEEF8-3E66-42A8-83D1-47E1C4F3AEBD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>COM3D2.MaidActiveUtill</RootNamespace>
+    <RootNamespace>LillyUtill.MyMaidActive</RootNamespace>
     <AssemblyName>COM3D25.MaidActiveUtill</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
